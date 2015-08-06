@@ -14,7 +14,7 @@ SELECT
 	kabupaten,
 	provinsi
 FROM
-	kodepos
+	tbl_kodepos
 WHERE
 	kodepos = ?
 ```
